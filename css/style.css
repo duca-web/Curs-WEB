@@ -24,7 +24,7 @@ a {
     text-decoration: none;
 }
 p {
-   line-height: 145px; 
+   line-height: 145%; 
 }
 main {
     min-height: 100dvh;
